@@ -187,7 +187,4 @@ async def yardım(ctx):
     await ctx.send(genel_yardim)
 
 # Bot Tokenini Çalıştır
-bot.run("MTM0MjU2MDc2Njk4NDcyMDQ2Ng.GCOpPH.00sZJcLL_TpmHWzVGhbwSQzL-q40J2R5UugH0M")
-
-# botların tokennleri > ChatGPT MTM0MjU2MDc2Njk4NDcyMDQ2Ng.GCOpPH.00sZJcLL_TpmHWzVGhbwSQzL-q40J2R5UugH0M
-# > Umepa Bot MTI4MTM3NzYxMzUzNjk1MjUwMQ.Gd3Dh5.UHGuWwQMNanoYLAbvqQkB-PfGSxqm1NiA9uW-0
+bot.run("Burayı silip tokeninizi yazın")
